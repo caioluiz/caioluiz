@@ -1,4 +1,4 @@
-# Hi there, my name is Caio <img src="images/hi.gif" width="30px">
+# Hi there, my name is Caio <img src="https://raw.githubusercontent.com/andreideholte/andreideholte/main/images/hi.gif" width="30px"/>
 
 - 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning Angular and Typescript
