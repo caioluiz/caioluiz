@@ -1,7 +1,10 @@
-### Hi there, my name is Caio 👋
+# Hi there, my name is Caio <img src="images/hi.gif" width="30px">
 
 - 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning Angular and Typescript
+
+##
+
 
 <div align="center">
   <a href="https://github.com/caioluiz">
