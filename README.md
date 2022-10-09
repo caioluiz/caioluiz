@@ -3,7 +3,7 @@
 <br/>
 
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning C and Java
 
 ##
 
