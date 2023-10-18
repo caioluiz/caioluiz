@@ -2,5 +2,4 @@
   
 <br/>
 
-- 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning MongoDB
