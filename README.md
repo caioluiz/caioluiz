@@ -2,4 +2,4 @@
   
 <br/>
 
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning Typesctipt
